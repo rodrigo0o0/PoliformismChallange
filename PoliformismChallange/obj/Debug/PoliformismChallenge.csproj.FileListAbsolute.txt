@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\PoliformismChallange\PoliformismChallange\bin\Debug\PoliformismChallange.exe.config
+C:\Users\sande\source\repos\PoliformismChallange\PoliformismChallange\bin\Debug\PoliformismChallange.exe
+C:\Users\sande\source\repos\PoliformismChallange\PoliformismChallange\bin\Debug\PoliformismChallange.pdb
+C:\Users\sande\source\repos\PoliformismChallange\PoliformismChallange\obj\Debug\PoliformismChallenge.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\PoliformismChallange\PoliformismChallange\obj\Debug\PoliformismChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\PoliformismChallange\PoliformismChallange\obj\Debug\PoliformismChallenge.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\PoliformismChallange\PoliformismChallange\obj\Debug\PoliformismChallange.exe
+C:\Users\sande\source\repos\PoliformismChallange\PoliformismChallange\obj\Debug\PoliformismChallange.pdb

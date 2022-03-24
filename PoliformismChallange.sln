@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliformismChallange", "PoliformismChallange\PoliformismChallange.csproj", "{7D1F22FD-8A78-4F0A-8FF1-F4454771F4D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliformismChallenge", "PoliformismChallange\PoliformismChallenge.csproj", "{7D1F22FD-8A78-4F0A-8FF1-F4454771F4D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
